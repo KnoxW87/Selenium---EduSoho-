@@ -1,7 +1,0 @@
-C:\Users\knoxw\source\repos\ConsoleApp1\SpecFlowProject1\obj\Debug\net472\SpecFlowProject1.csproj.AssemblyReference.cache
-C:\Users\knoxw\source\repos\ConsoleApp1\SpecFlowProject1\obj\Debug\net472\SpecFlowProject1.csproj.SuggestedBindingRedirects.cache
-C:\Users\knoxw\source\repos\ConsoleApp1\SpecFlowProject1\obj\Debug\net472\SpecFlowProject1.dll.config
-C:\Users\knoxw\source\repos\ConsoleApp1\SpecFlowProject1\obj\Debug\net472\SpecFlowProject1.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\knoxw\source\repos\ConsoleApp1\SpecFlowProject1\obj\Debug\net472\SpecFlowProject1.AssemblyInfoInputs.cache
-C:\Users\knoxw\source\repos\ConsoleApp1\SpecFlowProject1\obj\Debug\net472\SpecFlowProject1.AssemblyInfo.cs
-C:\Users\knoxw\source\repos\ConsoleApp1\SpecFlowProject1\obj\Debug\net472\SpecFlowProject1.csproj.CoreCompileInputs.cache

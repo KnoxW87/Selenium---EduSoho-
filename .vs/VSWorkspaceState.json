@@ -2,8 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\ConsoleApp1",
-    "\\ConsoleApp1\\Pages"
+    "\\ConsoleApp1\\Pages",
+    "\\SpecFlowProject1",
+    "\\SpecFlowProject1\\Features",
+    "\\SpecFlowProject1\\StepDefinitions"
   ],
-  "SelectedNode": "\\ConsoleApp1\\Pages\\AdminPage.cs",
+  "SelectedNode": "\\SpecFlowProject1\\Features\\Feature1.feature",
   "PreviewInSolutionExplorer": false
 }
