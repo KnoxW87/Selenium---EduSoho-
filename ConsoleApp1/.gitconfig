@@ -1,0 +1,7 @@
+[core]
+	editor = \"C:\\Users\\knoxw\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\code\" --wait
+[user]
+	email = knox.wang87@gmail.com
+	name = KnoxW87
+[safe]
+	directory = C:\Users\knoxw\source\repos\EduSoho Web\ConsoleApp1
